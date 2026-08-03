@@ -29,3 +29,5 @@ A complete, production-quality AI-Powered Smart Examination & Certification Syst
    python app.py
    ```
 3. The system will automatically open your default browser to `http://127.0.0.1:5000`.
+
+![alt text](image.png)
