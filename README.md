@@ -30,4 +30,4 @@ A complete, production-quality AI-Powered Smart Examination & Certification Syst
    ```
 3. The system will automatically open your default browser to `http://127.0.0.1:5000`.
 
-![alt text](image.png)
+![alt text](<Screenshot 2026-08-04 at 00-05-47 AI Smart Examination & Certification System.png>)
